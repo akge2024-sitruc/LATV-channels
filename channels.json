@@ -1,6 +1,56 @@
 {
   "channels": [
     {
+      "id": "4kurd",
+      "name": "4 Kurd",
+      "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "20minutestv",
+      "name": "20 Minutes TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+      "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+      "country": "France",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "ab1",
+      "name": "AB1",
+      "logo": "https://i.imgur.com/9C7UsOe.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "ab3",
+      "name": "AB3 HD",
+      "logo": "https://i.postimg.cc/RZ2N611D/ab3.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8",
+      "country": "Belgique",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "adntvplus",
+      "name": "ADN TV+",
+      "logo": "https://i.imgur.com/HQZQyWt.png",
+      "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+      "country": "France",
+      "category": "Animation",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
       "id": "africa24",
       "name": "Africa 24",
       "logo": "https://africa24tv.com/wp-content/uploads/2021/09/logo.png",
@@ -23,7 +73,7 @@
     {
       "id": "africa24sport",
       "name": "Africa 24 Sport",
-      "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png",
+      "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1",
       "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
       "country": "Afrique",
       "category": "Sports",
@@ -51,32 +101,32 @@
       "status": "active"
     },
     {
-      "id": "france24",
-      "name": "France 24",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png",
-      "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+      "id": "alpedhuez",
+      "name": "Alpe d'Huez TV",
+      "logo": "https://i.imgur.com/090tCQ5.png",
+      "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
       "country": "France",
-      "category": "News",
+      "category": "General",
       "isLive": true,
-      "status": "active"
+      "status": "testing"
     },
     {
-      "id": "euronews",
-      "name": "Euronews",
-      "logo": "https://i.imgur.com/7V012zQ.png",
-      "url": "https://rakuten-euronews-1-fr.samsung.wurl.tv/manifest/playlist.m3u8",
-      "country": "International",
-      "category": "News",
+      "id": "angerstele",
+      "name": "Angers Tele",
+      "logo": "https://i.imgur.com/CMKKbaP.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8",
+      "country": "France",
+      "category": "General",
       "isLive": true,
-      "status": "active"
+      "status": "testing"
     },
     {
-      "id": "franceinfo",
-      "name": "Franceinfo",
-      "logo": "https://i.imgur.com/eITXz6A.png",
-      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
+      "id": "animaux",
+      "name": "Animaux",
+      "logo": "https://i.imgur.com/FM9FVAG.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
       "country": "France",
-      "category": "News",
+      "category": "Education",
       "isLive": true,
       "status": "testing"
     },
@@ -91,6 +141,86 @@
       "status": "testing"
     },
     {
+      "id": "brionnaistv",
+      "name": "Brionnais TV",
+      "logo": "https://i.imgur.com/y94bhqX.jpg",
+      "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+      "country": "France",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "bruzz",
+      "name": "Bruzz",
+      "logo": "https://i.postimg.cc/xC7cVKxQ/bruzz.png",
+      "url": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
+      "country": "Belgique",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "bsmart",
+      "name": "B Smart TV",
+      "logo": "https://i.imgur.com/RyVEFcG.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8",
+      "country": "France",
+      "category": "Business",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "bx1",
+      "name": "BX1",
+      "logo": "https://i.imgur.com/0OkSa6c.png",
+      "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+      "country": "Belgique",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "caillou",
+      "name": "Caillou",
+      "logo": "https://i.imgur.com/RgKaoe4.png",
+      "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+      "country": "France",
+      "category": "Kids",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "canalj",
+      "name": "Canal J HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
+      "country": "France",
+      "category": "Kids",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "cinenanar",
+      "name": "Zylo Ciné Nanar",
+      "logo": "https://i.imgur.com/YnUZd3W.png",
+      "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "cinewestern",
+      "name": "Zylo Ciné Western",
+      "logo": "https://i.imgur.com/tteOFkL.png",
+      "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
       "id": "cnews",
       "name": "CNews",
       "logo": "https://i.imgur.com/sSNhk2g.png",
@@ -101,22 +231,42 @@
       "status": "testing"
     },
     {
-      "id": "rtfrance",
-      "name": "RT France",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",
-      "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
-      "country": "France",
-      "category": "News",
+      "id": "crtv",
+      "name": "CRTV",
+      "logo": "https://i.imgur.com/cQWNh3L.png",
+      "url": "http://69.64.57.208/crtv/playlist.m3u8",
+      "country": "Cameroun",
+      "category": "General",
       "isLive": true,
       "status": "testing"
     },
     {
-      "id": "tf1",
-      "name": "TF1 HD",
-      "logo": "https://i.imgur.com/QxHt9NC.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+      "id": "cstar",
+      "name": "C Star",
+      "logo": "https://i.imgur.com/w4kAX1V.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
       "country": "France",
-      "category": "General",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "dbmtv",
+      "name": "DBM TV",
+      "logo": "https://i.imgur.com/ab6p2SW.png",
+      "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "dynamicgospel",
+      "name": "Dynamic Gospel TV",
+      "logo": "https://i.imgur.com/e36BNNK.jpg",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
+      "country": "Togo",
+      "category": "Religious",
       "isLive": true,
       "status": "testing"
     },
@@ -141,12 +291,92 @@
       "status": "testing"
     },
     {
+      "id": "france4",
+      "name": "France 4 HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
+      "country": "France",
+      "category": "Kids",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
       "id": "france5",
       "name": "France 5 HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",
       "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd",
       "country": "France",
       "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png",
+      "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "France",
+      "category": "News",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "franceinfo",
+      "name": "Franceinfo",
+      "logo": "https://i.imgur.com/eITXz6A.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
+      "country": "France",
+      "category": "News",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "franceinter",
+      "name": "France Inter",
+      "logo": "https://i.imgur.com/MgBeU52.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8",
+      "country": "France",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "francophonie24",
+      "name": "Francophonie 24",
+      "logo": "https://i.imgur.com/uM1v1sd.png",
+      "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+      "country": "International",
+      "category": "Documentary",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "kto",
+      "name": "KTO",
+      "logo": "https://i.imgur.com/EY6TsdV.png",
+      "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+      "country": "France",
+      "category": "Religious",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "latrois",
+      "name": "La Trois",
+      "logo": "https://i.imgur.com/jMs4h9F.png",
+      "url": "http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8",
+      "country": "Belgique",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "lci",
+      "name": "LCI HD",
+      "logo": "https://i.imgur.com/DED8EXs.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd",
+      "country": "France",
+      "category": "News",
       "isLive": true,
       "status": "testing"
     },
@@ -161,10 +391,400 @@
       "status": "testing"
     },
     {
-      "id": "w9",
-      "name": "W9",
-      "logo": "https://i.imgur.com/reYeMuE.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd",
+      "id": "maisontravaux",
+      "name": "Maison & Travaux TV",
+      "logo": "https://i.imgur.com/uYpc6nE.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8",
+      "country": "France",
+      "category": "Lifestyle",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "nweconomie",
+      "name": "NW Economie",
+      "logo": "https://i.imgur.com/OmlFQa8.png",
+      "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+      "country": "Togo",
+      "category": "Business",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "nwinfo2",
+      "name": "NW Info 2 EN",
+      "logo": "https://i.imgur.com/0W4GqFD.png",
+      "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+      "country": "Togo",
+      "category": "News",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "nwinfo",
+      "name": "NW Info FR",
+      "logo": "https://i.imgur.com/UDEY91v.png",
+      "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+      "country": "Togo",
+      "category": "News",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "nwmagazine",
+      "name": "NW Magazine",
+      "logo": "https://i.imgur.com/RZNJZYN.png",
+      "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+      "country": "Togo",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "ortb",
+      "name": "ORTB TV",
+      "logo": "https://i.imgur.com/o6zAR88.png",
+      "url": "http://69.64.57.208/ortb/playlist.m3u8",
+      "country": "Bénin",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "p2mtv",
+      "name": "P2M TV",
+      "logo": "https://i.imgur.com/TrecSeG.png",
+      "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianacinema",
+      "name": "Persiana Cinema",
+      "logo": "https://i.imgur.com/hgIro9r.png",
+      "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianacomedy",
+      "name": "Persiana Comedy",
+      "logo": "https://i.imgur.com/DBZ3Pi5.png",
+      "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Comedy",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianadocs",
+      "name": "Persiana Docs",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",
+      "url": "https://scihls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Documentary",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianafamily",
+      "name": "Persiana Family",
+      "logo": "https://i.imgur.com/lMZsuWi.png",
+      "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianafight",
+      "name": "Persiana Fight",
+      "logo": "https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg",
+      "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Sports",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianafolk",
+      "name": "Persiana Folk",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
+      "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianairan",
+      "name": "Persiana Iranian",
+      "logo": "https://i.imgur.com/vqrrpBi.png",
+      "url": "https://irhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianajunior",
+      "name": "Persiana Junior",
+      "logo": "https://i.imgur.com/zeKHZYG.png",
+      "url": "https://junhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Kids",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianakorea",
+      "name": "Persiana Korea",
+      "logo": "https://i.imgur.com/si2ZnIA.png",
+      "url": "https://korhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianalatino",
+      "name": "Persiana Latino",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
+      "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianamedical",
+      "name": "Persiana Medical",
+      "logo": "https://i.postimg.cc/9FPhHF94/persiana-medical.jpg",
+      "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Education",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianamusic",
+      "name": "Persiana Music",
+      "logo": "https://i.imgur.com/SHxxi5I.png",
+      "url": "https://musichls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persiananostalgia",
+      "name": "Persiana Nostalgia",
+      "logo": "https://i.imgur.com/SWO9CKA.png",
+      "url": "https://noshls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianaplus",
+      "name": "Persiana Plus",
+      "logo": "https://i.imgur.com/0xttibX.png",
+      "url": "https://euhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianareality",
+      "name": "Persiana Reality",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png",
+      "url": "https://twohls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianaseries",
+      "name": "Persiana Series",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
+      "url": "https://onehls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Series",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianasports",
+      "name": "Persiana Sports",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+      "url": "https://spstr.abntv.live/hls/psstream.m3u8",
+      "country": "France",
+      "category": "Sports",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianasports2",
+      "name": "Persiana Sports 2",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+      "url": "https://pepsi.abntv.live/hls/4spstream.m3u8",
+      "country": "France",
+      "category": "Sports",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianasports3",
+      "name": "Persiana Sports 3",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+      "url": "https://pepsi3.abntv.live/hls/psp3.m3u8",
+      "country": "France",
+      "category": "Sports",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianasports4",
+      "name": "Persiana Sports 4",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+      "url": "https://pepsi4.abntv.live/hls/psp4.m3u8",
+      "country": "France",
+      "category": "Sports",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianateen",
+      "name": "Persiana Teen",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-teen-fr.png",
+      "url": "https://kphls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Kids",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianatravel",
+      "name": "Persiana Travel",
+      "logo": "https://i.postimg.cc/RF9L97qj/persiana-Travel.png",
+      "url": "https://mardomhls.wns.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Documentary",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianaturkiye",
+      "name": "Persiana Turkiye",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
+      "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "persianavibe",
+      "name": "Persiana Vibe",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
+      "url": "https://raphls.persiana.live/hls/stream.m3u8",
+      "country": "France",
+      "category": "Music",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "planeteplus",
+      "name": "Planete+",
+      "logo": "https://i.imgur.com/RMbMGMg.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8",
+      "country": "France",
+      "category": "Documentary",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rmcdecouverte",
+      "name": "RMC Decouverte",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8",
+      "country": "France",
+      "category": "Documentary",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rmclife",
+      "name": "RMC Life",
+      "logo": "https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/169RMCLIFEPETITvLaura.jpg?h=512",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rmcstory",
+      "name": "RMC Story",
+      "logo": "https://i.postimg.cc/MpjZFqGF/rmcstory.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rtfrance",
+      "name": "RT France",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",
+      "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "country": "France",
+      "category": "News",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rtjva",
+      "name": "RT JVA",
+      "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+      "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+      "country": "Togo",
+      "category": "Religious",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tf1",
+      "name": "TF1 HD",
+      "logo": "https://i.imgur.com/QxHt9NC.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+      "country": "France",
+      "category": "Entertainment",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tf1seriesfilms",
+      "name": "TF1 Series Films",
+      "logo": "https://i.imgur.com/4CJIDKQ.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8",
+      "country": "France",
+      "category": "Movies",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tfx",
+      "name": "TFX",
+      "logo": "https://i.imgur.com/d91GcVf.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
       "country": "France",
       "category": "Entertainment",
       "isLive": true,
@@ -181,146 +801,6 @@
       "status": "testing"
     },
     {
-      "id": "tfx",
-      "name": "TFX",
-      "logo": "https://i.imgur.com/d91GcVf.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
-      "country": "France",
-      "category": "Entertainment",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "cstar",
-      "name": "C Star",
-      "logo": "https://i.imgur.com/w4kAX1V.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
-      "country": "France",
-      "category": "Entertainment",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "france4",
-      "name": "France 4 HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
-      "country": "France",
-      "category": "Kids",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "canalj",
-      "name": "Canal J HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png",
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
-      "country": "France",
-      "category": "Kids",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "nwinfo",
-      "name": "NW Info FR",
-      "logo": "https://i.imgur.com/UDEY91v.png",
-      "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
-      "country": "Togo",
-      "category": "News",
-      "isLive": true,
-      "status": "active"
-    },
-    {
-      "id": "nwinfo2",
-      "name": "NW Info 2 EN",
-      "logo": "https://i.imgur.com/0W4GqFD.png",
-      "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
-      "country": "Togo",
-      "category": "News",
-      "isLive": true,
-      "status": "active"
-    },
-    {
-      "id": "nweconomie",
-      "name": "NW Economie",
-      "logo": "https://i.imgur.com/OmlFQa8.png",
-      "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
-      "country": "Togo",
-      "category": "Business",
-      "isLive": true,
-      "status": "active"
-    },
-    {
-      "id": "nwmagazine",
-      "name": "NW Magazine",
-      "logo": "https://i.imgur.com/RZNJZYN.png",
-      "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
-      "country": "Togo",
-      "category": "Entertainment",
-      "isLive": true,
-      "status": "active"
-    },
-    {
-      "id": "tvt",
-      "name": "TVT",
-      "logo": "https://i.imgur.com/WtXonN9.png",
-      "url": "http://69.64.57.208/tvt/playlist.m3u8",
-      "country": "Togo",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "rtjva",
-      "name": "RT JVA",
-      "logo": "https://i.imgur.com/Ja3HVLB.jpg",
-      "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
-      "country": "Togo",
-      "category": "Religious",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "dynamicgospel",
-      "name": "Dynamic Gospel TV",
-      "logo": "https://i.imgur.com/e36BNNK.jpg",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
-      "country": "Togo",
-      "category": "Religious",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "ortb",
-      "name": "ORTB TV",
-      "logo": "https://i.imgur.com/o6zAR88.png",
-      "url": "http://69.64.57.208/ortb/playlist.m3u8",
-      "country": "Bénin",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "tvcbenin",
-      "name": "TVC Bénin",
-      "logo": "https://i.imgur.com/oUnEYl5.png",
-      "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
-      "country": "Bénin",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "crtv",
-      "name": "CRTV",
-      "logo": "https://i.imgur.com/cQWNh3L.png",
-      "url": "http://69.64.57.208/crtv/playlist.m3u8",
-      "country": "Cameroun",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
       "id": "traceurban",
       "name": "Trace Urban",
       "logo": "https://i.imgur.com/DLIbUMx.png",
@@ -331,22 +811,12 @@
       "status": "active"
     },
     {
-      "id": "dbmtv",
-      "name": "DBM TV",
-      "logo": "https://i.imgur.com/ab6p2SW.png",
-      "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+      "id": "trek",
+      "name": "Trek HD",
+      "logo": "https://i.imgur.com/TcF53W4.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8",
       "country": "France",
-      "category": "Music",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "p2mtv",
-      "name": "P2M TV",
-      "logo": "https://i.imgur.com/TrecSeG.png",
-      "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
-      "country": "France",
-      "category": "Music",
+      "category": "Documentary",
       "isLive": true,
       "status": "testing"
     },
@@ -361,26 +831,66 @@
       "status": "active"
     },
     {
-      "id": "kto",
-      "name": "KTO",
-      "logo": "https://i.imgur.com/EY6TsdV.png",
-      "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
-      "country": "France",
-      "category": "Religious",
+      "id": "tvcbenin",
+      "name": "TVC Bénin",
+      "logo": "https://i.imgur.com/oUnEYl5.png",
+      "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+      "country": "Bénin",
+      "category": "General",
       "isLive": true,
       "status": "testing"
     },
     {
-      "id": "francophonie24",
-      "name": "Francophonie 24",
-      "logo": "https://i.imgur.com/uM1v1sd.png",
-      "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
-      "country": "International",
-      "category": "Documentary",
+      "id": "tvfinance",
+      "name": "TV Finance",
+      "logo": "https://i.imgur.com/G3qimo4.png",
+      "url": "https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8",
+      "country": "France",
+      "category": "Business",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tvlux",
+      "name": "TV Lux",
+      "logo": "https://i.imgur.com/ljbdWkC.png",
+      "url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+      "country": "Belgique",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tvr",
+      "name": "TVR (Bretagne)",
+      "logo": "https://www.tvr.bzh/favicon-1024.png",
+      "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+      "country": "France",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "tvt",
+      "name": "TVT",
+      "logo": "https://i.imgur.com/WtXonN9.png",
+      "url": "http://69.64.57.208/tvt/playlist.m3u8",
+      "country": "Togo",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "w9",
+      "name": "W9",
+      "logo": "https://i.imgur.com/reYeMuE.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd",
+      "country": "France",
+      "category": "Entertainment",
       "isLive": true,
       "status": "testing"
     }
   ],
   "last_updated": "2024-12-15",
-  "version": "2.0"
+  "version": "3.0"
 }
