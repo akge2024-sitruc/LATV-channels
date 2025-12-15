@@ -1,5 +1,25 @@
 {
+  "version": "1.0",
+  "last_update": "2024-12-15",
   "channels": [
+    {
+      "id": "tf1",
+      "name": "TF1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TF1_logo_2013.svg/200px-TF1_logo_2013.svg.png",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr/tf1.m3u8",
+      "country": "France",
+      "category": "General",
+      "status": "active"
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/200px-France24.png",
+      "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+      "country": "France",
+      "category": "News",
+      "status": "active"
+    },
     {
       "id": "africa24",
       "name": "Africa 24",
@@ -7,7 +27,6 @@
       "url": "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
       "country": "Afrique",
       "category": "News",
-      "isLive": true,
       "status": "active"
     },
     {
@@ -17,7 +36,33 @@
       "url": "https://edge.vedge.infomaniak.com/livecast/ik:sentv/manifest.m3u8",
       "country": "Sénégal",
       "category": "General",
-      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "rtci",
+      "name": "RTI 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RTI_1_Logo.svg/200px-RTI_1_Logo.svg.png",
+      "url": "https://www.enovativeapps.com/rti1/playlist.m3u8",
+      "country": "Côte d'Ivoire",
+      "category": "General",
+      "status": "active"
+    },
+    {
+      "id": "rti2",
+      "name": "RTI 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/RTI_2_Logo.svg/200px-RTI_2_Logo.svg.png",
+      "url": "https://www.enovativeapps.com/rti2/playlist.m3u8",
+      "country": "Côte d'Ivoire",
+      "category": "General",
+      "status": "active"
+    },
+    {
+      "id": "canal2",
+      "name": "Canal 2 International",
+      "logo": "https://www.canal2international.net/wp-content/uploads/2018/01/logo-canal2.png",
+      "url": "https://video.canal2international.com:8089/hls/stream.m3u8",
+      "country": "Cameroun",
+      "category": "General",
       "status": "active"
     },
     {
@@ -27,7 +72,6 @@
       "url": "https://rakuten-euronews-1-fr.samsung.wurl.tv/manifest/playlist.m3u8",
       "country": "International",
       "category": "News",
-      "isLive": true,
       "status": "active"
     },
     {
@@ -37,50 +81,7 @@
       "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
       "country": "International",
       "category": "Sports",
-      "isLive": true,
       "status": "active"
-    },
-    {
-      "id": "rti1",
-      "name": "RTI 1",
-      "logo": "https://i.imgur.com/o1Xx9TC.png",
-      "url": "https://www.enovativeapps.com/rti1/playlist.m3u8",
-      "country": "Côte d'Ivoire",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "rti2",
-      "name": "RTI 2",
-      "logo": "https://i.imgur.com/bGK8YJu.png",
-      "url": "https://www.enovativeapps.com/rti2/playlist.m3u8",
-      "country": "Côte d'Ivoire",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "canal2",
-      "name": "Canal 2 International",
-      "logo": "https://i.imgur.com/CpR3rYJ.png",
-      "url": "https://video.canal2international.com:8089/hls/stream.m3u8",
-      "country": "Cameroun",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
-    },
-    {
-      "id": "rtb",
-      "name": "RTB Bénin",
-      "logo": "https://i.imgur.com/5M2xjGx.png",
-      "url": "https://edge.vedge.infomaniak.com/livecast/ik:rtb/manifest.m3u8",
-      "country": "Bénin",
-      "category": "General",
-      "isLive": true,
-      "status": "testing"
     }
-  ],
-  "last_updated": "2024-12-15",
-  "version": "1.0"
+  ]
 }
