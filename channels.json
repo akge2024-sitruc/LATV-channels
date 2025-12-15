@@ -1,0 +1,86 @@
+{
+  "channels": [
+    {
+      "id": "africa24",
+      "name": "Africa 24",
+      "logo": "https://i.imgur.com/qVJR0jT.png",
+      "url": "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+      "country": "Afrique",
+      "category": "News",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "sentv",
+      "name": "SEN TV",
+      "logo": "https://i.imgur.com/OuogLHx.png",
+      "url": "https://edge.vedge.infomaniak.com/livecast/ik:sentv/manifest.m3u8",
+      "country": "Sénégal",
+      "category": "General",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "euronews",
+      "name": "Euronews",
+      "logo": "https://i.imgur.com/7V012zQ.png",
+      "url": "https://rakuten-euronews-1-fr.samsung.wurl.tv/manifest/playlist.m3u8",
+      "country": "International",
+      "category": "News",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "redbull",
+      "name": "Red Bull TV",
+      "logo": "https://i.imgur.com/TBIU2K8.png",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "country": "International",
+      "category": "Sports",
+      "isLive": true,
+      "status": "active"
+    },
+    {
+      "id": "rti1",
+      "name": "RTI 1",
+      "logo": "https://i.imgur.com/o1Xx9TC.png",
+      "url": "https://www.enovativeapps.com/rti1/playlist.m3u8",
+      "country": "Côte d'Ivoire",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rti2",
+      "name": "RTI 2",
+      "logo": "https://i.imgur.com/bGK8YJu.png",
+      "url": "https://www.enovativeapps.com/rti2/playlist.m3u8",
+      "country": "Côte d'Ivoire",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "canal2",
+      "name": "Canal 2 International",
+      "logo": "https://i.imgur.com/CpR3rYJ.png",
+      "url": "https://video.canal2international.com:8089/hls/stream.m3u8",
+      "country": "Cameroun",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    },
+    {
+      "id": "rtb",
+      "name": "RTB Bénin",
+      "logo": "https://i.imgur.com/5M2xjGx.png",
+      "url": "https://edge.vedge.infomaniak.com/livecast/ik:rtb/manifest.m3u8",
+      "country": "Bénin",
+      "category": "General",
+      "isLive": true,
+      "status": "testing"
+    }
+  ],
+  "last_updated": "2024-12-15",
+  "version": "1.0"
+}
